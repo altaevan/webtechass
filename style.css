@@ -1,0 +1,224 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.body{
+    font-family: 'Josefin Sans', sans-serif;
+}
+.header{
+    background-color: #FFC0CB;
+}
+.header .row{
+    margin-top: 70px;
+}
+.logo{
+    height: 80px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.name{
+margin-left: 50px;
+}
+.syder{
+    font-size: 60px;
+    font-family: 'Great Vibes', cursive;
+}
+.navbar{
+    display: flex;
+    align-items:center;
+    padding: 20px;
+}
+nav{
+    flex:1;
+    text-align: right;
+}
+nav ul{
+    display: inline-block;
+    list-style-type: none;
+}
+nav ul li {
+    display: inline-block;
+    margin-right: 20px;
+}
+.list{
+    text-decoration: none;
+    color:#555;
+    font-size: 25px;
+}
+p{
+    color: #555555;
+}
+.text{
+    font-size: 20px;
+}
+.container{
+    max-width: 1300px;
+    padding-left: 25px;
+    padding-right: 25px;
+}
+.main{
+    background: radial-gradient(#FFF8DC,#FFDEAD);
+  }
+.row{
+    margin-left: 100px;
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+.container1{
+    padding:70px 25px;
+}
+.col-6 img{
+    padding-top: 30px;
+    width: 600px;
+}
+.col-3{
+    flex-basis: 30%;
+    min-width: 250px;
+    margin-bottom:30px;
+}
+.col-3 img{
+    width: 300px;
+}
+
+.small-container{
+    max-width: 1080px;
+    margin: auto;
+    padding-left: 25px;
+    padding-right: 25px;
+}
+footer{
+    font-size: 15px;
+    padding: 30px 0;
+    background-color: #ffefd6;
+}
+
+.col1{
+    text-align: right;
+    padding-right: 15px;
+    padding-bottom: 10px;
+}
+
+
+
+
+
+.productpage{
+    font-size: 20px;
+    align-content: center;
+    font-family: 'Josefin Sans', sans-serif;
+    background-color: #FFDEAD;
+}
+
+.prod{
+    text-align: center;
+    color: #E5890A;
+    padding: 50px 0;
+    font-family: 'Great Vibes', cursive;
+    font-size: 100px;
+}
+.col-sm img{
+    width: 280px;
+    padding-bottom: 15px;
+
+}
+.col-sm{
+    font-style: italic;
+    font-size: larger;
+    margin-bottom: 40px;
+}
+
+/*************************/
+.home{
+    text-align: center;
+    font-size: 20px;
+}
+.homepa{
+    display: inline-block;
+    background: #E5890A;
+    color: white;
+    padding: 8px 30px;
+    margin: 30px 0;
+    border-radius: 30px;
+}
+
+/**************************/
+
+
+
+
+
+
+
+
+
+
+.enjoy{
+  font-size: 30px;
+  text-align: center;
+  color: #9D5C0D;
+}
+.enjoy1{
+  font-size: 40px;
+  text-align: center;
+  color: #D67D3E;
+}
+.wind{
+    display: contents;
+    align-content: center;
+  text-align: center;
+  font-size: 20px;
+
+}
+.form-group input{
+    display: inline-block;
+    alignment: center;
+    width: 350px;
+}
+
+
+
+
+
+
+
+
+
+.aboutpage{
+    align-content: center;
+    font-family: 'Josefin Sans', sans-serif;
+    background-color: #FFDEAD;
+}
+.aboutus{
+    text-align: center;
+    color: #E5890A;
+    padding: 50px 0;
+    font-family: 'Great Vibes', cursive;
+    font-size: 100px;
+}
+.info{
+  text-align: center;
+}
+.photo3{
+  margin:auto;
+  width: 100%;
+  display: block;
+}
+.topic{
+  font-size: 50px;
+  color:#9D5C0D;
+}
+.text{
+  font-size: 22px;
+}
+
+.container{
+    max-width: 1300px;
+    padding-left: 25px;
+    padding-right: 25px;
+}
+
+
+
